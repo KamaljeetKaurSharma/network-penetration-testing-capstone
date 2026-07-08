@@ -3,7 +3,7 @@ Authorized penetration testing, vulnerability assessment, and exploit validation
 # Information Security & Assurance Capstone: Web Server Penetration Testing
 
 ## 📌 Project Overview
-[cite_start]This repository contains the documentation, methodologies, and technical logs for my Master’s Capstone Project in Information Security/Information Assurance at Johnson & Wales University. [cite_start]The objective of this project was to perform an authorized, controlled penetration test against a designated remote target server environment to identify architecture vulnerabilities, execute exploit proofs-of-concept, and evaluate systemic security weaknesses[cite: 136, 137].
+This repository contains the documentation, methodologies, and technical logs for my Master’s Capstone Project in Information Security/Information Assurance at Johnson & Wales University. The objective of this project was to perform an authorized, controlled penetration test against a designated remote target server environment to identify architecture vulnerabilities, execute exploit proofs-of-concept, and evaluate systemic security weaknesses.
 
 The testing pipeline strictly follows standard offensive security frameworks: **Reconnaissance, Scanning, Vulnerability Analysis, Exploitation, and Post-Exploitation Remediation.**
 
