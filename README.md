@@ -16,5 +16,5 @@ The testing pipeline strictly follows standard offensive security frameworks: **
 * **Vulnerability Assessment:** Searchsploit, Common Vulnerabilities and Exposures (CVE) Database
 
 ---
-
+** This project was executed entirely within an authorized, isolated educational laboratory sandbox environment for academic fulfillment at Johnson & Wales University. Absolutely no unauthorized network scanning or adversarial actions were taken against external live production environments
 
