@@ -11,8 +11,8 @@ The testing pipeline strictly follows standard offensive security frameworks: **
 
 ## 🛠️ Technical Stack & Tools
 * **Operating System:** Kali Linux
-* [cite_start]**Reconnaissance & Scanning:** Nmap (Network Mapper) 
-* [cite_start]**Exploitation Framework:** Metasploit (msfconsole) 
+* **Reconnaissance & Scanning:** Nmap (Network Mapper) 
+* **Exploitation Framework:** Metasploit (msfconsole) 
 * **Vulnerability Assessment:** Searchsploit, Common Vulnerabilities and Exposures (CVE) Database
 
 ---
